@@ -35,7 +35,7 @@ $ npm i
 $ npm start
 ```
 
-Now open your browser in following URL: [http://localhost:4200](http://localhost:4200/)
+Abre tu navegador: [http://localhost:4200](http://localhost:4200/)
 
 ## Contacto
 * correo: gamadorh93@gmail.com
