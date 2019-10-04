@@ -1,21 +1,5 @@
-
 # Created by https://www.gitignore.io/api/node,linux,windows,angular,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=node,linux,windows,angular,visualstudiocode
-
-### Angular ###
-## Angular ##
-# compiled output
-dist/
-tmp/
-app/**/*.js
-app/**/*.js.map
-
-# dependencies
-node_modules/
-bower_components/
-
-# IDEs and editors
-.idea/
 
 # misc
 .sass-cache/
@@ -26,9 +10,25 @@ npm-debug.log
 testem.log
 typings/
 
-# e2e
-e2e/*.js
-e2e/*.map
+
+# IDEs and editors
+.idea/
+
+
+## server
+/web-chat-server/node_modules
+/web-chat-server/dist
+
+## client
+/web-chat-client/node_modules
+/web-chat-client/dist
+/web-chat-client/tmp
+/web-chat-client/e2e/*.js
+/web-chat-client/e2e/*.map
+
+
+
+
 
 #System Files
 .DS_Store/
