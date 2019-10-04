@@ -24,13 +24,15 @@ $ cd web-chat-server
 $ npm i
 $ npm run build
 $ npm start
+$ # Esta ventana se tiene que dejar abierta y con el servidor corriendo
 ```
 
 
 * Ejecuta el cliente
 
 ```bash
-$ cd ../web-chat-client
+$ # Abrir nueva terminal y redireccionarse a la raizprojecto
+$ cd web-chat-client
 $ npm i
 $ npm start
 ```
